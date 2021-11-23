@@ -1,1 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="style1.css">
+<title>One Pages</title>
+</head>
+</style>
+<body>
+    <div class="flex div"><div><img id="ig" src="file:///D:/images.jpg" class="e" ></div>
+  <div ><a href="home.html">Home</a></div> <div ><a href="AboutUs.html">About Us</a></div><div ><a href="HelpUs.html">Help Us</a></div>
+  </div>  
+</div><script src="js/bootstrap.min.js"></script>
+<div class="mj">VISION A center of excellence in technical, vocational, health and higher education in Bataan, pursuing dynamic program offerings paralleled to global standards to uplift the socio-economic growth of the province</DIV>
+<div class="jl">MISSION
+    To develop and offer high quality technical, health and higher education programs that would ensure employability and productivity of young men and women through proper value and principles as a means to achieve success with excellence for a better quality of life.</div>
+</body>
+</html>
 
+body{
+    background-color: aquamarine;
+    
+}
+.flex{
+    display: flex;
+    
+    height: 150px;
+    
+    background-color: rgba(7, 194, 194, 0.808);
+  }
+  
+.flex > div {
+   
+    margin: 20px;
+    padding:30px;
+    font-size: 80px;
+    margin-left:130px;
+    
+    font-size:xx-large;
+
+    
+  }
+.e {
+  
+    border-radius:10px;
+    padding: 5px;
+    margin-left: -10px;
+    margin-right: 50px;
+    margin-top:-50PX;
+    height: 140px;
+}
+.jl{
+    background-color: beige ; 
+    text-align: center;
+    font-size: 30px;
+    border: solid;
+    border-color: black;
+    margin-left:50px;
+    margin-right: 900px;
+   padding: 2px;
+    margin-top: -310px;
+    height: 300px;
+}
+.mj{
+    background-color: beige;
+    text-align: center;
+    font-size: 30px;
+    border: solid;
+    border-color: black;
+    margin-left:900px;
+    margin-right: 50px;
+   padding: 2px;
+    margin-top: 50px;
+    height: 300px;
+}
