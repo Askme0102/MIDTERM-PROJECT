@@ -1,41 +1,148 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="style1.css">
-<title>One Pages</title>
+<title>ECST</title>
 </head>
-</style>
 <body>
-    <div class="flex div"><div><img id="ig" src="file:///D:/images.jpg" class="e" ></div>
-  <div ><a href="home.html">Home</a></div> <div ><a href="AboutUs.html">About Us</a></div><div ><a href="HelpUs.html">Help Us</a></div>
-  </div>  
-</div><script src="js/bootstrap.min.js"></script>
-<div class="mj">VISION A center of excellence in technical, vocational, health and higher education in Bataan, pursuing dynamic program offerings paralleled to global standards to uplift the socio-economic growth of the province</DIV>
-<div class="jl">MISSION
-    To develop and offer high quality technical, health and higher education programs that would ensure employability and productivity of young men and women through proper value and principles as a means to achieve success with excellence for a better quality of life.</div>
+ <h1 style="text-align: center;"><img src="file:///D:/261174902_1475745839488621_7380526418199415847_n.png" alt=""></h1>
+  <div style="text-align: center; background-color: aquamarine; font-weight: bold;padding: 20px; border: solid; border-radius: 10px; margin-left: 600px;margin-right: 600px;"><a href="ecst1.html">Get Started!</a></div>
+</div>
+</div>
+</div>
+
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style1.css">
+<title>ECST</title>
+</head>
+<body>
+    <div class="flex div"><div><img id="ig"src="file:///D:/images.jpg" class="e" ></div><div><a href="ecst1.html">Mission and Vision</a></div>
+  <div ><a href="home.html">Home</a></div> <div ><a href="AboutUs.html">About Us</a></div>
+  </div>  
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6">
+<h1 class="vc">MISSION</h1>
+<p class="mv"> To develop and offer high quality technical, health and higher education programs that would ensure employability and productivity of young men and women through proper value and principles as a means to achieve success with excellence for a better quality of life.</p>
+<h1 class="vb">Vision</h1>
+<p class="mv">A center of excellence in technical, vocational, health and higher education in Bataan, pursuing dynamic program offerings paralleled to global standards to uplift the socio-economic growth of the province.</p>
+</div>
+</div>
+</div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style1.css">
+<title>ECST</title>
+</head>
+<body>
+  <div class="flex div"><div><img id="ig"src="file:///D:/images.jpg" class="e" ></div><div><a href="ecst1.html">Mission and Vision</a></div>
+  <div ><a href="home.html">Home</a></div> <div ><a href="AboutUs.html">About Us</a></div>
+  </div>  
+</div>
+<h1 class="i">HOME</h1>
+
+<img src="file:///D:/125403947_3366791876782781_9084557896681867078_n.jpg" class="id">
+<h1></h1>
+<img src="file:///D:/115695941_3024043087724330_2079429287693584741_n.jpg" class="id">
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6">
+<h1 class="vq">College Freshmen</h1>
+<p class="mv">Form 138 (report card)
+  3 copies 1 x 1 colored picture_
+  Copy of Birth Certificate
+  Certificate of Good Moral Character</p>
+<h1 class="vw">Old Students</h1>
+<p class="mv">ID card of the previous semester
+  Class cards of subject taken from the previous semester
+  3 copies of 1 x 1 colored picture
+  Students clearance from previous semester</p>
+  <h1 class="ve">Transferees</h1>
+  <p class="mv">Honorable Dismissal (Official Transfer Credential)
+    Certified copy of grades/ credits earned from other school
+    3 copies of 1 x 1 colored picture
+    Copy of Birth Certificate
+    Certificate of Good Moral Character</p>
+  <h1 class="vr">Returning/ Shifting Students</h1>
+  <p class="mv">  ID card of the last semester enrolled for returning students
+    Application firm from the Registrar's Office
+    Clearance from the Office of Students Affairs
+    Clearance from Cashier's office and settlement of back accounts</p>
+    
+</div>
+</div>
+</div>
+<script ></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style1.css">
+<title>ECST</title>
+</head>
+<body>
+  <div class="flex div"><div><img id="ig"src="file:///D:/images.jpg" class="e" ></div><div><a href="ecst1.html">Mission and Vision</a></div>
+  <div ><a href="home.html">Home</a></div> <div ><a href="AboutUs.html">About Us</a></div>
+  </div>  
+</div>
+<h1 class="vc">About Us</h1>
+<img src="file:///C:/Users/Owner/Downloads/Capture.PNG" class="id">
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6">
+      <h1 class="vc">ADDRESS</h1>
+<p class="mv">San Ramon,2110, Dinalupihan, Bataan,Philippines
+  VF96+JM Dinalupihan, Bataan,
+ </p>
+<h1 class="vc">CONTACT</h1>
+<p class="mv">eiist_dinalupihan@yahoo.com,
+  (047) 636 1571,+639088923007
+
+</p>
+
+
+</div>
+</div>
+</div>
+</body>
+</html>
+
+
 body{
     background-color: aquamarine;
-    
+    margin: 0px;
+    padding: 0px;
 }
 .flex{
     display: flex;
     
-    height: 150px;
+    height: 160px;
     
     background-color: rgba(7, 194, 194, 0.808);
   }
   
-.flex > div {
+.flex> div {
    
     margin: 20px;
-    padding:30px;
+    padding:20px;
     font-size: 80px;
     margin-left:130px;
-    
+    font-weight: bold;
     font-size:xx-large;
 
     
@@ -44,33 +151,70 @@ body{
   
     border-radius:10px;
     padding: 5px;
-    margin-left: -10px;
-    margin-right: 50px;
-    margin-top:-50PX;
+    margin-left: -150px;
+    margin-right: -15px;
+    margin-top:-40PX;
     height: 140px;
 }
-.jl{
-    background-color: beige ; 
-    text-align: center;
-    font-size: 30px;
-    border: solid;
-    border-color: black;
-    margin-left:50px;
-    margin-right: 900px;
-   padding: 2px;
-    margin-top: -310px;
-    height: 300px;
+
+.big-text{
+font-size: 22px;
+margin: 20px 0px;
+
 }
-.mj{
-    background-color: beige;
-    text-align: center;
-    font-size: 30px;
-    border: solid;
-    border-color: black;
-    margin-left:900px;
-    margin-right: 50px;
-   padding: 2px;
-    margin-top: 50px;
-    height: 300px;
+.small-text{
+  font-size: 22px;
+margin: 20px 0px;
 }
-FF
+.mv{
+  margin-left: 200px;
+  width: 750px;
+  padding: 50px;
+  background-color:rgba(7, 194, 194, 0.808);
+  border: solid;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+.vc{
+  text-align: center;
+  font-weight: bold;
+}
+.vb{
+  text-align: center;
+  margin-left: -50px;
+  font-weight: bold;
+}
+.vq{
+  text-align: center;
+  margin-left: 140px;
+  font-weight: bold;
+}
+.vw{
+  text-align: center;
+  margin-left: 50px;
+  font-weight: bold;
+}
+.ve{
+  text-align: center;
+  margin-left: 30px;
+  font-weight: bold;
+}
+.vr{
+  text-align: center;
+  margin-left: 140px;
+  font-weight: bold;
+}
+.id{
+  text-align: center;
+  margin-left: 230px;
+  padding: 1px;
+  height: 600px;
+  width: 900px;
+  border: solid;
+}
+.i{
+  text-align: center;
+  font-weight: bold;
+}
+
